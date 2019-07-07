@@ -1,0 +1,14 @@
+{
+	"name": "alchemy-ds-sql",
+	"description": "Base SQL datasource plugin for Alchemy MVC",
+	"version": "0.1.0",
+	"repository": "skerit/alchemy-ds-sql",
+	"dependencies": {
+		"mongo-sql" : "~6.2.0"
+	},
+	"license": "MIT",
+	"engines": {
+		"node": ">=8.0.0"
+	},
+	"private": true
+}
